@@ -12,4 +12,6 @@
 
   boundingRect 함수로 사람을 인식. 낙상 시, boundingRect가 초록색에서 빨간색으로 변함.
   
+  ![낙상감지](https://user-images.githubusercontent.com/61223256/104096666-56a87f80-52df-11eb-8fbd-23f2e82966c3.png)
+  
   

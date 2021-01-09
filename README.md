@@ -7,3 +7,5 @@
 
 ● 인물 인식
 라즈베리파이와 파이카메라를 이용하여 openCv의 thresehold와 contour함수를 사용하여 동적인 물체를 이진화, 감지함.
+
+ ![영상이진화](https://user-images.githubusercontent.com/61223256/104096293-029d9b00-52df-11eb-9d5f-13bc6b78ff24.png)
